@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "7e85f674ab34fbde",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cbfa8c3f9cdc3a6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe90873fdfa0a200",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fb644e20b52db2e4",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "7d9ca34a20b866d9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "文件列表"
+        }
+      },
+      {
+        "id": "05b16597ad550334",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "搜索"
+        }
+      },
+      {
+        "id": "6ea9c47843b06430",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "标签"
+        }
+      },
+      {
+        "id": "a9c20f9383732189",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "书签"
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "1efa3b9c6b482b41",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "db3e4f142537568d",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "反向链接"
+        }
+      },
+      {
+        "id": "de2ec5c1ea3fcdf4",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "出链"
+        }
+      },
+      {
+        "id": "5e3bbd69aba8c047",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "大纲"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:创建新数据库": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "fe90873fdfa0a200",
+  "lastOpenFiles": [
+    "Note/2026/20260302-1416.md",
+    "resource/software engineering/软件工程原理与实践 (沈备军，万成城，陈昊鹏) (z-library.sk, 1lib.sk, z-lib.sk).pdf",
+    "resource/software engineering",
+    "templater/模板.md",
+    "Note/2026/未命名.md",
+    "templater"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "spellcheck": false,
+  "uriCallbacks": false,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "/attachments",
+  "vimMode": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
+}

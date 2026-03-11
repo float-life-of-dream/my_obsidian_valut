@@ -1,0 +1,69 @@
+# --- Obsidian 基础排除 ---
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache/
+# 如果你不希望同步插件设置，可以取消下面这行的注释
+.obsidian/plugins/obsidian-git/
+
+# --- 操作系统与系统垃圾 ---
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+desktop.ini
+
+# --- 开发环境相关 (VS/VS Code/Dev-C++) ---
+.vscode/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+Debug/
+Release/
+x64/
+ipch/
+*.exe
+*.o
+*.obj
+*.out
+# Dev-C++ 产生的临时文件
+*.layout
+*.win
+
+# --- 编程语言相关 (Node/Python/Java) ---
+# 必须排除：node_modules 是体积炸弹
+node_modules/
+package-lock.json
+npm-debug.log*
+
+# Python 缓存
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+
+# Java 编译产物
+*.class
+*.jar
+*.war
+
+# --- 竞赛与大文件排除 (华为赛/Mac App) ---
+# 华为精英赛的大型二进制文件
+*.app/
+log/
+interactor/linux/
+interactor/macos/
+interactor/windows/
+code_craft_2025/linux/
+code_craft_2025/windows/
+
+# --- 敏感信息 ---
+# 严禁将 SSH 钥匙推送到公共仓库
+.ssh/
+id_ed25519*
+config
+
+
+Resource/2026/SRE：Google运维解密 (Betsy Beyer_ (Z-Library)(1).pdf
