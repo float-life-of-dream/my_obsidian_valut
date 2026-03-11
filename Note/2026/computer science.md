@@ -1,0 +1,17 @@
+数据结构
+![[image.jpg]]
+离散数学
+![[image-1.jpg]]
+计算机网络
+![[image-2.jpg]]
+数据库系统原理
+![[image-3.jpg]]
+数字逻辑基础
+![[image-4.jpg]]
+计算机组成
+![[image-5.jpg]]
+操作系统
+![[image-6.jpg]]
+编译原理
+![[image-7.jpg]]计算理论
+![[image-8.jpg]]![[image-9.jpg]]
