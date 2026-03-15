@@ -10,4 +10,4 @@ date modified: 2026-02-26 13:34
 
 [[trie]]
 
-[[leetcode]]
+[[Note/2026/leetcode]]
