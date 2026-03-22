@@ -4,7 +4,7 @@
 .obsidian/cache/
 # 如果你不希望同步插件设置，可以取消下面这行的注释
 .obsidian/plugins/obsidian-git/
-
+.obsidian/plugins/
 # --- 操作系统与系统垃圾 ---
 .DS_Store
 Thumbs.db
