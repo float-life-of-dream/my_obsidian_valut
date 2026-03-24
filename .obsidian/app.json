@@ -2,5 +2,6 @@
   "openBehavior": "",
   "newFileLocation": "folder",
   "newFileFolderPath": "Note/2026",
-  "attachmentFolderPath": "Attachments"
+  "attachmentFolderPath": "Attachments",
+  "vimMode": true
 }
