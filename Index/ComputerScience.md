@@ -1,12 +1,15 @@
 # data  structure
 
-[[data structure]]
 
+数据结构
+[[20260510-2125]]
+算法
+[[20260510-2126]]
+c语言哈希表
 [[20260311-2233]]
-
+字典树
 [[trie]]
 
-[[Note/2026/leetcode]]
 
 # database
 [[MySQL]]

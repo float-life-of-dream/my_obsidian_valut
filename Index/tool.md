@@ -9,11 +9,12 @@ date modified: 2026-02-26 14:26
 
 shortcut Key
 
-[[IDEA快捷键]]
-
-[[shortcut key]]
-
-[[windows]]
+IDEA
+[[20260510-2133]]
+windows chrome
+[[20260510-2134]]
+windows
+[[20260510-2139]]
 
 [[vscode]]
 
